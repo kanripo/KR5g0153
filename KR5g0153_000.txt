@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:58:39.487317
-#+TITLE: 洞真太上說智慧消魔真經
-#+PROPERTY: DZID  DZ1344
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，33—597 五卷 正一部
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
